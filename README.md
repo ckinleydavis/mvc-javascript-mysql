@@ -1,6 +1,6 @@
 # About Our JavaScript:Bootstrap:MVC Project
 
-This project has been developed using NodeJS, JavaScript, Bootstrap, and MySQL. It is being freely hosted using GitHub Pages. The repository for this project may be found [here](https://github.com/ckinleydavis/jekyll).
+This project has been developed using NodeJS, JavaScript, Bootstrap, and MySQL. It is being freely hosted using GitHub Pages. The repository for this project may be found [here](https://github.com/ckinleydavis/mvc-javascript-mysql).
 
 ## Installations
 
@@ -13,14 +13,21 @@ This project has been developed using NodeJS, JavaScript, Bootstrap, and MySQL. 
  * dotenv
  * heroku
 
+## APIs Used
+
+ * [FDA: Adverse Drug Event Reports](https://api.fda.gov/drug/event.json)
+
+## JSON Data Modeling
+
+ * [JSON Data Modeling in Document Databases](https://www.youtube.com/watch?v=S5nNrrgpypU)
+
 ## Run the Application
 
-* [GitHub](https://ckinleydavis.github.io/mvc-javascript-mysql/)
+* [GitHub Pages](https://ckinleydavis.github.io/mvc-javascript-mysql/)
 
 * [Heroku](https://placeholder)
 
 * Local Machine &nbsp; <g-emoji class="g-emoji" alias="desktop_computer" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f5a5.png">🖥️</g-emoji>&nbsp;<g-emoji class="g-emoji" alias="point_down" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f447.png">👇</g-emoji>
-<br/>
 <br/>
 
 Open a terminal and run the following command to create a MySQL connection:  
