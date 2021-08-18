@@ -79,6 +79,15 @@ Meta.init(
         },
         drugindication: {
 
+        },
+        transmissiondate: {
+
+        },
+        serious: {
+
+        },
+        receiptdate: {
+
         }
     },
     {
